@@ -14,7 +14,7 @@
 }
 
 .button.secondary {
-  font-size: $font-size-small;
+  font-size: 12px;
   font-weight: bold;
   padding: 8px 10px;
 }
@@ -29,7 +29,7 @@
 }
 
 .button.gray {
-  background: $gray-light;
+  background: #9a9a9e;
   color: rgba(#000, .4);
 }
 
@@ -56,6 +56,6 @@
 
 .button.secondary.gray {
   background: transparent;
-  border: 1px solid $gray;
-  color: $gray;
+  border: 1px solid #9a9a9e;
+  color: #9a9a9e;
 }
